@@ -1,0 +1,8 @@
+# Backend dosyaları
+backend/
+node_modules/
+.env
+
+# Sistem dosyaları
+.DS_Store
+.vscode/ 
